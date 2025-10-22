@@ -1,8 +1,8 @@
 streamlit
-pillow
+Pillow
+numpy
 imagehash
+opencv-python
 scikit-image
 torch
 torchvision
-numpy
-opencv-python
